@@ -1,0 +1,81 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+}
+
+.container{
+    display: flex;
+}
+
+.box1{
+    border: solid palevioletred;
+    height: 550px;
+    width: 900px;
+    background-color: palevioletred;
+    border-radius: 8px;
+    margin-left: 300px;
+    margin-top: 80px;
+}
+
+.box1 h1{
+    padding-top: 30px;
+}
+
+.box1 p{
+    font-size: 17.7px;
+    padding-top: 31px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.cakes{
+    border: solid palevioletred;
+    height: 150px;
+    width: 200px;
+    background-color: aliceblue;
+    border-radius: 15px;
+    margin-left: 90px;
+    margin-top: 30px;
+    color: palevioletred;
+    padding-top: 3px;
+    float: left;
+
+}
+
+.burgers{
+    border: solid palevioletred;
+    height: 150px;
+    width: 200px;
+    background-color: aliceblue;
+    border-radius: 15px;
+    margin-left: 50px;
+    margin-top: 30px;
+    color: palevioletred;
+    padding-top: 3px;
+    float: left;
+
+}
+
+.pizza{
+    border: solid palevioletred;
+    height: 150px;
+    width: 200px;
+    background-color: aliceblue;
+    border-radius: 15px;
+    margin-left: 50px;
+    margin-top: 30px;
+    color: palevioletred;
+    padding-top: 3px;
+    float: left;
+
+}
+
+.hr{
+    border: 1px solid palevioletred;
+}
+
+#greatest{
+    margin-top: 40px;
+}
+
